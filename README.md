@@ -7,7 +7,7 @@ We're in the process of moving a lot of our activities off of Facebook and meetu
 
 ## Deployment
 
-This site can be deployed a coule of different ways:
+This site can be deployed a couple of different ways:
 ### Deploy on Generic Linux distro (Ubuntu Server)
 ### Deploy on Heroku
 ### Deploy on Digital Ocean
