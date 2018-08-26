@@ -9,6 +9,11 @@ We're in the process of moving a lot of our activities off of Facebook and meetu
 
 This site can be deployed a couple of different ways:
 ### Deploy on Generic Linux distro (Ubuntu Server)
+1. SSH and best pracices
+2. 
 ### Deploy on Heroku
+Reference: http://blog.teamtreehouse.com/deploy-static-site-heroku 
+
+
 ### Deploy on Digital Ocean
 
