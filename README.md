@@ -9,7 +9,7 @@ We're in the process of moving a lot of our activities off of Facebook and meetu
 
 This site can be deployed a couple of different ways:
 ### Deploy on Generic Linux distro (Raspberry PI with Apache)
-1. SSH and best pracices
+1. SSH and best pracices: https://www.tecmint.com/5-best-practices-to-secure-and-protect-ssh-server/
 2. Install apache: https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 3. Deploy Manually: 
 Push to folder /var/www/html
