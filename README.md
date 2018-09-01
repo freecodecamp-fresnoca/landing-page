@@ -8,13 +8,12 @@ We're in the process of moving a lot of our activities off of Facebook and meetu
 ## Deployment
 
 This site can be deployed a couple of different ways:
-### Deploy on Generic Linux distro (Ubuntu Server)
+### Deploy on Generic Linux distro (Raspberry P1)
 1. SSH and best pracices
-2. Install apache
+2. Install apache: https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 3. Deploy Manually
 ### Deploy on Heroku
 Reference: http://blog.teamtreehouse.com/deploy-static-site-heroku 
-1. Get new account
-2. Go through heroku deploy on singe page
+1. New Heroku account
+2. Go through heroku deploy
 3. Go through individual steps and differences in tutorial
-### Deploy on Digital Ocean
