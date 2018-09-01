@@ -8,11 +8,14 @@ We're in the process of moving a lot of our activities off of Facebook and meetu
 ## Deployment
 
 This site can be deployed a couple of different ways:
-### Deploy on Generic Linux distro (Raspberry P1)
+### Deploy on Generic Linux distro (Raspberry PI with Apache)
 1. SSH and best pracices
 2. Install apache: https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 3. Deploy Manually: 
 Push to folder /var/www/html
+
+Example of a service that deploys via SSN automatically:
+https://deploybot.com/blog/the-easiest-way-to-deploy-your-app-through-ssh-and-git
 ### Deploy on Heroku
 Reference: http://blog.teamtreehouse.com/deploy-static-site-heroku 
 1. New Heroku account
