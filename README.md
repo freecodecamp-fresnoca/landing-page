@@ -14,10 +14,13 @@ This site can be deployed a couple of different ways:
 3. Deploy Manually: 
 Push to folder /var/www/html
 
-Example of a service that deploys via SSN automatically:
+Example of a service that deploys via SSH automatically:
 https://deploybot.com/blog/the-easiest-way-to-deploy-your-app-through-ssh-and-git
 ### Deploy on Heroku
 Reference: http://blog.teamtreehouse.com/deploy-static-site-heroku 
 1. New Heroku account
 2. Go through heroku deploy
 3. Go through individual steps and differences in tutorial
+
+Choose a build pack and look at build logs.
+https://fresno-freecodecamplandingpage.herokuapp.com/
