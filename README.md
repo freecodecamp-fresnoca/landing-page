@@ -11,7 +11,8 @@ This site can be deployed a couple of different ways:
 ### Deploy on Generic Linux distro (Raspberry P1)
 1. SSH and best pracices
 2. Install apache: https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
-3. Deploy Manually
+3. Deploy Manually: 
+Push to folder /var/www/html
 ### Deploy on Heroku
 Reference: http://blog.teamtreehouse.com/deploy-static-site-heroku 
 1. New Heroku account
