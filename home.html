@@ -3,8 +3,6 @@
 	<head>
 		<title>freeCodeCamp(Fresno,CA){ CA.forEach((developer.in.Fresno)=>{ alert("Hey come to our meetup and say hi!");})} </title>
 		<link rel="stylesheet" type="text/css" href="styles.css">
-		<script type="text/javascript" src="scripts/ics.deps.min.js"></script>
-		<script type="text/javascript" src="scripts/fccOctober.js"></script>
 	</head>
 	<body>
 		<div class="Aligner header">
@@ -12,9 +10,10 @@
 		</div>
 		<div class="card" style="display: flex; justify-content: space-between; flex-flow: row wrap; align-items: center;">
 				<h1 style="margin: 0,0,0,0; background-color:rgba(0,0,0,0);">Welcome!</h1>
-			<div class="btndiv" onclick="downloadIcs()">
-				<button class="btnpop">Add to calendar</button>
+			<div class="btndiv">
+				<button class="btnpop" onclick="location.href='http://api.meetup.com/Free-Code-Camp-Fresno/upcoming.ical'">Add to calendar</button>
 			</div>
+
 		</div>
 		<div class="card">
 			<p><a href='https://freecodecamp.org' target="_blank">Free Code Camp</a> is a global organization for teaching real-world coding skills. This is the Fresno chapter website.</p>
